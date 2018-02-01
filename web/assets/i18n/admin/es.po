@@ -35,7 +35,7 @@ msgstr ""
 
 #. Header of the custom widget section (beware, it might overlap the cogs icon on the right)
 msgctxt "designer.addwidget.customwidgets"
-msgid "Custom widgets"g
+msgid "Custom widgets"
 msgstr ""
 
 #. Open widget gallery
