@@ -21,42 +21,42 @@ msgstr "Guardar"
 #. Run button in the dashboard designer
 msgctxt "designer.run"
 msgid "Run"
-msgstr ""
+msgstr "Ejecutar"
 
 #. Add widget button in the dashboard designer
 msgctxt "designer.addwidget"
 msgid "Add Widget"
-msgstr ""
+msgstr "Añadir Widget"
 
 #. Tutorial text with arrow when on an empty dashboard
 msgctxt "designer.addwidget.hint"
 msgid "Add some widgets"
-msgstr ""
+msgstr "Añadir algunos widgets"
 
 #. Header of the custom widget section (beware, it might overlap the cogs icon on the right)
 msgctxt "designer.addwidget.customwidgets"
 msgid "Custom widgets"
-msgstr ""
+msgstr "Widgets personalizados"
 
 #. Open widget gallery
 msgctxt "designer.addwidget.getmore"
 msgid "Get more..."
-msgstr ""
+msgstr "Obtener mas..."
 
 #. Tooltip when hovering the "Get more" menu entry
 msgctxt "designer.addwidget.getmore.tooltip"
 msgid "Open the widget gallery to import more widgets"
-msgstr ""
+msgstr "Abre la galería de widgets para importar más widgets"
 
 #. Edit option in a widget placeholder context menu (3-dot icon)
 msgctxt "designer.contextmenu.edit"
 msgid "Edit..."
-msgstr ""
+msgstr "Editar..."
 
 #. Copy/move option in a widget placeholder context menu (3-dot icon)
 msgctxt "designer.contextmenu.copymove"
 msgid "Copy/move to..."
-msgstr ""
+msgstr "Copiar/mover a..."
 
 #. Delete option in a widget placeholder context menu (3-dot icon)
 msgctxt "designer.contextmenu.delete"
